@@ -5,3 +5,5 @@ Fortran script to solve the wave equation numerically, following [this article](
 A Mathematica notebook to visualize the solutions is also included.
 
 The approach and solutions are discussed in `Notes.pdf` (in spanish).
+
+![sample solution](wave.png)
